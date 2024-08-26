@@ -8,3 +8,11 @@ sum=no1+no2;
 cout<<sum;
 return 0;
 }
+#include<iostream>
+using namespace std;
+int main() {
+int sub,a=6,b=3;
+sub=(a-b);
+cout<<"sub="<<sub;
+return 0;
+}
